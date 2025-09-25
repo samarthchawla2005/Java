@@ -5,3 +5,4 @@ Java Program Files
   4) Literals.java
   5) Operators in Java
   6) Relational Operators in Java
+  7) Logical Operators in Java
