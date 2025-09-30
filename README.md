@@ -10,4 +10,5 @@
   <li>Logical Operators in Java</li>
   <li>Conditional Statement (If - else )</li>
   <li>Conditional Statement (If - else - If)</li>
+  <li>Ternary Operator in java</li>
 </ol>
