@@ -1,4 +1,4 @@
-<h1 style="color: red">Java Program Files</h1>
+<h1>Java Program Files</h1>
 <br>
 <ol>
   <li>Hello.java</li>
