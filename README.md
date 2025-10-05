@@ -1,4 +1,4 @@
-<b>Java Program Files</b>
+<h1>Java Program Files</h1>
 <br>
 <ol>
   <li>Hello.java</li>
@@ -12,4 +12,5 @@
   <li>Conditional Statement (If - else - If)</li>
   <li>Ternary Operator in java</li>
   <li>Switch Case</li>
+  <li>While Loop in Java</li>
 </ol>
