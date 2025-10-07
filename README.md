@@ -13,4 +13,5 @@
   <li>Ternary Operator in java</li>
   <li>Switch Case</li>
   <li>While Loop in Java</li>
+  <li>Do While Loop in Java</li>
 </ol>
