@@ -1,0 +1,11 @@
+Arrays in Java, while fundamental, present several disadvantages:
+
+Fixed Size: Once an array is declared and initialized, its size cannot be changed. This means you must know the exact number of elements you will store beforehand. If you need to add more elements than the allocated space, you must create a new, larger array and copy all elements, which can be inefficient. Conversely, if you allocate too much space, memory is wasted. 
+
+Inefficient Insertions and Deletions: Inserting or deleting elements, especially in the middle of an array, is computationally expensive. It requires shifting subsequent elements to maintain data integrity, leading to a time complexity of O(n) in the worst case. 
+
+Homogeneous Elements Only: Arrays can only store elements of a single data type. This limits their flexibility when dealing with mixed data types, requiring workarounds like using an array of Object and then casting, which can introduce runtime errors if not handled carefully. 
+
+Lack of Built-in Methods: Arrays lack convenient built-in methods for common operations like adding, removing, or searching elements, unlike Java Collections Framework classes such as ArrayList or LinkedList. This necessitates manual implementation of such functionalities.
+
+Manual Bounds Checking: Accessing array elements requires careful management of indices to avoid ArrayIndexOutOfBoundsException at runtime. Unlike some other data structures, arrays do not automatically prevent access to invalid indices.
