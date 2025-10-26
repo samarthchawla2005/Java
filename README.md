@@ -23,4 +23,5 @@
   <li>Multi-Dimensional Array in Java</li>
   <li>Jagged & 3-D Array in Java</li>
   <li>Drawbacks of Array</li>
+  <li>Array of Objects</li>
 </ol>
