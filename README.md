@@ -18,11 +18,11 @@
   <li>Classes & Objects in java</li>
   <li>Methods in java</li>
   <li>Method Overloading in Java</li>
-  <li>Enhanced For Loop</li>
   <li>Stack & Heap in Java</li>
   <li>Array in Java</li>
   <li>Multi-Dimensional Array in Java</li>
   <li>Jagged & 3-D Array in Java</li>
   <li>Drawbacks of Array</li>
   <li>Array of Objects</li>
+  <li>Enhanced For Loop</li>
 </ol>
