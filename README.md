@@ -25,4 +25,5 @@
   <li>Drawbacks of Array</li>
   <li>Array of Objects</li>
   <li>Enhanced For Loop</li>
+  <li>Strings</li>
 </ol>
