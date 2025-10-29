@@ -26,4 +26,5 @@
   <li>Array of Objects</li>
   <li>Enhanced For Loop</li>
   <li>Strings</li>
+  <li>Mutable vs Immutable String in Java</li>
 </ol>
