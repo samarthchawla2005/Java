@@ -28,4 +28,5 @@
   <li>Strings</li>
   <li>Mutable vs Immutable String in Java</li>
   <li>StringBuffer & StringBuilder in Java</li>
+  <li>Static Variable in Java</li>
 </ol>
