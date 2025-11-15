@@ -30,4 +30,5 @@
   <li>StringBuffer & StringBuilder in Java</li>
   <li>Static Variable in Java</li>
   <li>Static Methods in Java</li>
+  <li>Static Block in Java</li>
 </ol>
