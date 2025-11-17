@@ -31,4 +31,5 @@
   <li>Static Variable in Java</li>
   <li>Static Methods in Java</li>
   <li>Static Block in Java</li>
+  <li>Encapsulation in Java</li>
 </ol>
