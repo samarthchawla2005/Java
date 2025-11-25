@@ -38,4 +38,5 @@
   <li>Default vs Parameterized Constructor</li>
   <li>Anonymous Object in java</li>
   <li>Inheritance in Java</li>
+  <li>Single & Multi-Level Inheritance in Java</li>
 </ol>
