@@ -42,4 +42,5 @@
   <li>Multiple Inheritance in Java</li>
   <li>This & Super in Java</li>
   <li>Methods Overloading in Java</li>
+  <li>Method Overriding in Java</li>
 </ol>
