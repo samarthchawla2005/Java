@@ -41,7 +41,6 @@
   <li>Single & Multi-Level Inheritance in Java</li>
   <li>Multiple Inheritance in Java</li>
   <li>This & Super in Java</li>
-  <li>Methods Overloading in Java</li>
   <li>Method Overriding in Java</li>
   <li>Packages in Java</li>
   <li>Access Modifiers in Java</li>
