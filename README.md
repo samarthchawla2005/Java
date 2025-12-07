@@ -46,4 +46,5 @@
   <li>Access Modifiers in Java</li>
   <li>Dynamic Method Dispatch in Java</li>
   <li>Final Keyword in Java</li>
+  <li>Object Class equals toString hashcode in Java</li>
 </ol>
