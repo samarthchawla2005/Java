@@ -48,4 +48,5 @@
   <li>Final Keyword in Java</li>
   <li>Object Class equals toString hashcode in Java</li>
   <li>Upcasting and Downcasting in Java</li>
+  <li>Wrapper Class in Java</li>
 </ol>
