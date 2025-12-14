@@ -1,5 +1,5 @@
 class A{
-    //varable
+    //variable
     int age;
 
     //method
@@ -25,4 +25,5 @@ public class Demo{
         
         obj1.config();
     }
+
 }
