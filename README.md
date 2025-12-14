@@ -52,4 +52,5 @@
   <li>Abstract Keyword in Java</li>
   <li>Inner Class in Java</li>
   <li>Anonymous Inner Class in Java</li>
+  <li>Abstract and Anonymous Inner Class in Java</li>
 </ol>
