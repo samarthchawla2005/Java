@@ -53,4 +53,5 @@
   <li>Inner Class in Java</li>
   <li>Anonymous Inner Class in Java</li>
   <li>Abstract and Anonymous Inner Class in Java</li>
+  <li>Interfaces in Java</li>
 </ol>
