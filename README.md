@@ -56,4 +56,5 @@
   <li>Interfaces in Java</li>
   <li>Need of Interface in Java</li>
   <li>More on Interfaces in Java</li>
+  <li>Enum in Java</li>
 </ol>
