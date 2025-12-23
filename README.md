@@ -58,4 +58,5 @@
   <li>More on Interfaces in Java</li>
   <li>Enum in Java</li>
   <li>Enum if & switch in Java</li>
+  <li>Enum Class in Java</li>
 </ol>
