@@ -61,4 +61,5 @@
   <li>Enum Class in Java</li>
   <li>Function Interface in Java</li>
   <li>Lambda Expression in Java</li>
+  <li>Lambda Expression with return in Java</li>
 </ol>
