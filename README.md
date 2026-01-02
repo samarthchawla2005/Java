@@ -65,4 +65,5 @@
   <li>Exception & Exception Handling Using Try Catch in Java</li>
   <li>Try with Multiple Catch in Java</li>
   <li>Exception Throw Keyword in Java</li>
+  <li>Custom Exception in Java</li>
 </ol>
