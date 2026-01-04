@@ -66,4 +66,5 @@
   <li>Try with Multiple Catch in Java</li>
   <li>Exception Throw Keyword in Java</li>
   <li>Custom Exception in Java</li>
+  <li>Ducking Exception using throws in Java</li>
 </ol>
