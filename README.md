@@ -70,4 +70,5 @@
   <li>User Input using BufferedReader and Scanner in Java</li>
   <li>try with resources in Java</li>
   <li>Threads in Java</li>
+  <li>Thread Priority and Sleep in Java</li>
 </ol>
