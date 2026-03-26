@@ -80,4 +80,5 @@
   <li>Stream API in Java</li>
   <li>forEach Method in Java</li>
   <li>More on Stream API in Java</li>
+  <li>Map, Filter, Reduce & Sorted in Java</li>
 </ol>
